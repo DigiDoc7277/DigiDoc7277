@@ -2,7 +2,6 @@
 
 I am a passionate aspiring gynecologist, blending my love for women's health with innovative technology through AI tools. I’m currently developing a mini project (Telegram bot) focused on women’s wellness, along with a website that's still a work in progress.
 
-## 🔬🌐 Current Projects
 - **Well Women Zone Bot**: A bot offering insights on hormones, their age-related effects, and common women’s symptoms, along with helpful tips for managing them. It also provides uplifting quotes and a curated list of resources to support both mental and physical health. This is a simple AI-generated Python program—more of a step toward promoting women's wellness than a technical project.
 - To access it, <a href="https://telegram.org/apps" target="_blank">download Telegram</a>.
 - Scan the code below to open the bot:
