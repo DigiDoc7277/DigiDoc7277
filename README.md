@@ -6,7 +6,7 @@ I am a passionate aspiring gynecologist, blending my love for women's health wit
 - **Well Women Zone Bot**: A bot offering insights on hormones, their age-related effects, and common women’s symptoms, along with helpful tips for managing them. It also provides uplifting quotes and a curated list of resources to support both mental and physical health. This is a simple AI-generated Python program—more of a step toward promoting women's wellness than a technical project.
 - To access it, [download Telegram](https://telegram.org/apps).
 - Scan the code below to open the bot:  
-![Well Women Zone Bot](./images/botbarcode.png)
+![Well Women Zone Bot](./botbarcode.png)
 
 ## 📈 GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-github-DigiDoc7277&color=blueviolet&style=flat-square)
